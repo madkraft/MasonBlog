@@ -1,0 +1,16 @@
+---
+layout: blog
+title: Here I'm goin' in!
+category: blog
+tags: [some tags]  
+summary: A little first post to introduce myself
+image: /images/blog/2.jpg
+---
+
+This is a template with masonry to get the theme
+
+```
+git clone https://github.com/pasindud/jekyll-masonry-theme
+```
+
+Edit the _config.yml to change your settings
